@@ -1,5 +1,7 @@
 package com.calculator;
 
 public class Calculator {
-    // Calculator methods will be added here
+    public int add(int a, int b) {
+        return a + b;
+    }
 }
